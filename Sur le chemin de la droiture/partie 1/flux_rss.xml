@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Sur le chemin de la droiture</title>
+    <link>https://92lbn.github.io/mon-podcast/</link>
+    <description>Sur le Chemin de la Droiture est une émission qui explore comment vivre pleinement sa foi en Islam avec sincérité et constance. À travers des réflexions profondes, des enseignements du Coran et des conseils pratiques, nous abordons les clés pour atteindre Al-Istiqamah (la droiture) dans notre quotidien.</description>
+    <language>fr-fr</language>
+    <itunes:author>Imam Mohamed</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Religion & Spirituality">
+      <itunes:category text="Islam" />
+    </itunes:category>
+    
+    <!-- Premier épisode -->
+    <item>
+      <title>Comment s'installer sur la droiture</title>
+      <description>🎙️ Podcast : La Piété et la Droiture en Islam</description>
+      <enclosure url="https://92lbn.github.io/mon-podcast/Sur%20le%20chemin%20de%20la%20droiture/partie%201/mp3/01%20-%20Comment%20s_installer%20sur%20la%20Droiture-converted.mp3" length="12345678" type="audio/mpeg" />
+      <guid>https://92lbn.github.io/mon-podcast/Sur%20le%20chemin%20de%20la%20droiture/partie%201/mp3/01%20-%20Comment%20s_installer%20sur%20la%20Droiture-converted.mp3</guid>
+      <pubDate>Tue, 07 May 2025 10:00:00 GMT</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
