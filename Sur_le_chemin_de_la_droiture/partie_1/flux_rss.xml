@@ -1,25 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
   <channel>
     <title>Sur le chemin de la droiture</title>
+    <atom:link href="https://92lbn.github.io/mon-podcast/Sur_le_chemin_de_la_droiture/partie_1/flux_rss.xml" rel="self" type="application/rss+xml"/>
     <link>https://92lbn.github.io/mon-podcast/</link>
-    <description>Sur le Chemin de la Droiture est une émission qui explore comment vivre pleinement sa foi en Islam avec sincérité et constance. À travers des réflexions profondes, des enseignements du Coran et des conseils pratiques, nous abordons les clés pour atteindre Al-Istiqamah (la droiture) dans notre quotidien.</description>
-    <language>fr-fr</language>
-    <itunes:author>Imam Mohamed</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Religion &amp; Spirituality">
-      <itunes:category text="Islam" />
-    </itunes:category>
-    
-    <!-- Premier épisode -->
+    <description>Un podcast qui éclaire le cœur et l’esprit : conseils, rappels et sagesses pour avancer sur le chemin de la droiture, selon le Coran et la Sunna.</description>
+    <pubDate>Tue, 07 May 2025 10:00:00 GMT</pubDate>
+    <generator>GitHub Pages</generator>
+    <language>fr</language>
+    <copyright>Copyright 2025 All rights reserved.</copyright>
+    <category>Religion &amp; Spirituality:Islam</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Mosquée de bagneux</itunes:author>
+    <itunes:summary>Un podcast qui éclaire le cœur et l’esprit : rappels et sagesses pour avancer sur le chemin de la droiture.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Mosquée de bagneux</itunes:name>
+    </itunes:owner>
+    <itunes:block>No</itunes:block>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://92lbn.github.io/mon-podcast/Sur_le_chemin_de_la_droiture/taqwa.jpg"/>
+    <image>
+      <url>https://92lbn.github.io/mon-podcast/Sur_le_chemin_de_la_droiture/taqwa.jpg</url>
+      <title>Sur le chemin de la droiture</title>
+      <link>https://92lbn.github.io/mon-podcast/</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+
+    <!-- Épisode 1 -->
     <item>
-      <title>Comment s'installer sur la droiture</title>
-      <description>🎙️ Podcast : La Piété et la Droiture en Islam</description>
-      <enclosure url="https://92lbn.github.io/mon-podcast/Sur%20le%20chemin%20de%20la%20droiture/partie%201/mp3/01%20-%20Comment%20s_installer%20sur%20la%20Droiture-converted.mp3" length="12345678" type="audio/mpeg" />
-      <guid>https://92lbn.github.io/mon-podcast/Sur%20le%20chemin%20de%20la%20droiture/partie%201/mp3/01%20-%20Comment%20s_installer%20sur%20la%20Droiture-converted.mp3</guid>
-      <pubDate>Tue, 07 May 2025 10:00:00 GMT</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
+      <title>Comment s'installer sur la Droiture</title>
+      <itunes:title>Comment s'installer sur la Droiture</itunes:title>
+      <link>https://mosqueebagneux.fr/</link>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ep001</guid>
+      <description><![CDATA[
+        <p>Dans cet épisode, nous explorons :</p>
+        <ul>
+          <li>✅ Qu’est-ce que la piété et la droiture ?</li>
+          <li>✅ Comment le Ramadan nous aide à les renforcer ?</li>
+          <li>✅ Pourquoi le Coran est-il clé dans cette quête ?</li>
+        </ul>
+        <p>📖 Un échange inspirant pour avancer sur le droit chemin. Écoutez maintenant ! 🎧🤲</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p>Dans cet épisode, nous explorons :</p>
+        <ul>
+          <li>✅ Qu’est-ce que la piété et la droiture ?</li>
+          <li>✅ Comment le Ramadan nous aide à les renforcer ?</li>
+          <li>✅ Pourquoi le Coran est-il clé dans cette quête ?</li>
+        </ul>
+        <p>📖 Un échange inspirant pour avancer sur le droit chemin. Écoutez maintenant ! 🎧🤲</p>
+      ]]></content:encoded>
+      <enclosure url="https://92lbn.github.io/mon-podcast/Sur_le_chemin_de_la_droiture/partie_1/mp3/01.mp3"
+                 length="30907740" type="audio/mpeg"/>
+      <itunes:summary><![CDATA[
+        Dans cet épisode, nous explorons :
+        ✅ Qu’est-ce que la piété et la droiture ?
+        ✅ Comment le Ramadan nous aide à les renforcer ?
+        ✅ Pourquoi le Coran est-il clé dans cette quête ?
+        📖 Un échange inspirant pour avancer sur le droit chemin.
+      ]]></itunes:summary>
+      <itunes:author>Imam Mohamed</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>33:17</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
 
   </channel>
