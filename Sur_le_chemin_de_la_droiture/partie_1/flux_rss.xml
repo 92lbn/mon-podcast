@@ -19,10 +19,13 @@
     <generator>GitHub Pages</generator>
     <language>fr</language>
     <copyright>Copyright 2025 All rights reserved.</copyright>
-    <category>Religion &amp; Spirituality:Islam</category>
+    <category>Religion & Spirituality:Islam</category>
     <ttl>1440</ttl>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Mosquée de bagneux</itunes:author>
+    <itunes:category text="Religion & Spirituality">
+    <itunes:category text="Islam"/>
+    </itunes:category>
     <itunes:summary>Un podcast qui éclaire le cœur et l’esprit : rappels et sagesses pour avancer sur le chemin de la droiture.</itunes:summary>
     <itunes:owner>
       <itunes:name>Mosquée de bagneux</itunes:name>
@@ -42,7 +45,7 @@
     <item>
       <title>Comment s'installer sur la Droiture</title>
       <itunes:title>Comment s'installer sur la Droiture</itunes:title>
-      <link>https://mosqueebagneux.fr/</link>
+      <link>https://92lbn.github.io/mon-podcast/</link>
       <pubDate>Tue, 01 Apr 2025 10:00:00 GMT</pubDate>
       <guid isPermaLink="false">ep001</guid>
       <description><![CDATA[
